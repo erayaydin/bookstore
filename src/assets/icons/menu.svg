@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="512px" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="512px" xmlns="http://www.w3.org/2000/svg">
+  <g class="st2" id="Layer">
+    <g class="st0">
+      <polyline class="st1" points="89,386 424,386 424,385.999   "/>
+      <polyline class="st1" points="89,257 424,257 424,256.999   " stroke="#FFFFFF" fill="#FFFFFF"/>
+      <polyline class="st1" points="89,127 424,127 424,126.999   "/>
+    </g>
+  </g>
+  <g id="Layer_copy">
+    <g>
+      <path d="M424,394H89c-4.418,0-8-3.582-8-8s3.582-8,8-8h335c4.418,0,8,3.582,8,8S428.418,394,424,394z" style="fill: rgb(255, 255, 255);"/>
+    </g>
+    <g>
+      <path d="M424,265H89c-4.418,0-8-3.582-8-8c0-4.418,3.582-8,8-8h335c4.418,0,8,3.582,8,8C432,261.418,428.418,265,424,265z" style="fill: rgb(255, 255, 255);"/>
+    </g>
+    <g>
+      <path d="M424,135H89c-4.418,0-8-3.582-8-8s3.582-8,8-8h335c4.418,0,8,3.582,8,8S428.418,135,424,135z" style="fill: rgb(255, 255, 255);"/>
+    </g>
+  </g>
+</svg>
